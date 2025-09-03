@@ -3,7 +3,7 @@
 
 | My 42 Stats | 💫 About Me |
 | --- | --- |
-| [![mel-houa's 42 stats](https://badge.mediaplus.ma/binary/mel-houa)](https://profile.intra.42.fr/users/mel-houa) | 👨‍💻 **Hi! I’m MOHAMED EL-HOUARY** <br> 🎓 42/1337 Rabat Student <br> 🚀 Passionate about **low-level programming**, **Linux systems**, and **software engineering** <br> 💡 Always learning, always building <br> 🌍 Based in [your location] |
+| [![mel-houa's 42 stats](https://badge.mediaplus.ma/binary/mel-houa)](https://profile.intra.42.fr/users/mel-houa) | 👨‍💻 **Hi! I’m MOHAMED EL-HOUARY** <br> 🎓 42/1337 Rabat Student <br> 🚀 Passionate about **low-level programming**, **Linux systems**, and **software engineering** <br> 💡 Always learning, always building <br> 🌍 Based in  nonoono |
 
 ---
 
