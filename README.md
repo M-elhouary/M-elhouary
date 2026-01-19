@@ -51,10 +51,6 @@
 - [🔗 **Philosophers**](https://github.com/M-elhouary/philosophers) – Multithreading and synchronization project
 - [🔗 **Fract-ol**](https://github.com/M-elhouary/fract-ol) – Fractal visualization with mathematical computations
 
-### **Web & Applications:**
-- [🔗 **Web Projects**](https://github.com/M-elhouary) – Full-stack applications using modern technologies
-- [🔗 **API Development**](https://github.com/M-elhouary) – RESTful services and backend systems
-
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -104,23 +100,7 @@
 - 🤔 **Researching:** System design patterns and optimization techniques
 - 💬 **Discussing:** Technology trends and software engineering best practices
 
----
 
-## 📚 Learning Resources
-
-### **Books I Recommend:**
-- The C Programming Language (K&R)
-- Clean Code by Robert C. Martin
-- Design Patterns: Elements of Reusable Object-Oriented Software
-- The Linux Command Line by William Shotts
-
-### **Online Learning:**
-- 42 Network Curriculum
-- FreeCodeCamp
-- MDN Web Docs
-- Linux Documentation Project
-
----
 
 > 💬 *"The best way to predict the future is to create it." – Abraham Lincoln*
 > 
