@@ -54,8 +54,6 @@
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-elhouary&layout=compact&theme=shades-of-purple&hide_border=true)
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=M-elhouary&theme=shades-of-purple&hide_border=true)
-
 </div>
 
 ---
