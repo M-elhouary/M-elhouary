@@ -43,13 +43,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### **System & Low-Level:**
-- [🔗 **Push Swap**](https://github.com/M-elhouary/push_swap) – Efficient sorting algorithm with stack operations
-- [🔗 **Minishell**](https://github.com/M-elhouary/minishell) – Custom shell implementation in C
-- [🔗 **Philosophers**](https://github.com/M-elhouary/philosophers) – Multithreading and synchronization project
-- [🔗 **Fract-ol**](https://github.com/M-elhouary/fract-ol) – Fractal visualization with mathematical computations
 
 ---
 
@@ -64,6 +57,16 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=M-elhouary&theme=shades-of-purple&hide_border=true)
 
 </div>
+
+---
+## 📌 Featured Projects
+
+### **System & Low-Level:**
+- [🔗 **Push Swap**](https://github.com/M-elhouary/push_swap) – Efficient sorting algorithm with stack operations
+- [🔗 **Minishell**](https://github.com/M-elhouary/minishell) – Custom shell implementation in C
+- [🔗 **Philosophers**](https://github.com/M-elhouary/philosophers) – Multithreading and synchronization project
+- [🔗 **Fract-ol**](https://github.com/M-elhouary/fract-ol) – Fractal visualization with mathematical computations
+
 
 ---
 
