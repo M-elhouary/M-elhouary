@@ -55,7 +55,7 @@
     style="margin-right: 10px;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-elhouary&layout=compact&theme=shades-of-purple&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-elhouary&langs_count=10&theme=shades-of-purple&hide_border=true"
   />
 </div>
 
