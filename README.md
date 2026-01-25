@@ -50,12 +50,15 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-elhouary&show_icons=true&theme=shades-of-purple&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-elhouary&layout=compact&theme=shades-of-purple&hide_border=true)
-  
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=M-elhouary&show_icons=true&theme=shades-of-purple&hide_border=true"
+    style="margin-right: 10px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-elhouary&layout=compact&theme=shades-of-purple&hide_border=true"
+  />
 </div>
+
 
 ---
 ## 📌 Featured Projects
