@@ -71,7 +71,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 🐧 Systems & Infrastructure
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,fedora,debian,docker,nginx,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql"/>
 </div>
 
 🔧 Development Tools
