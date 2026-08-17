@@ -65,13 +65,13 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 💻 Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,bash"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,js,ts,python" />
 </div>
 
 🐧 Systems & Infrastructure
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,fedora.debian,docker,nginx,mysql"/>
 </div>
 
 🔧 Development Tools
