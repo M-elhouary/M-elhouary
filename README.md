@@ -38,7 +38,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 ⚙️ Interested in Backend and System Programming
 🚀 Learning by building real projects
 
-🔭 Currently working on 42 Inception
 
 🌱 Learning Docker, DevOps, Linux & Infrastructure
 
@@ -46,7 +45,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 
 🌐 Exploring Networking & Infrastructure
 
-🧠 Interested in Backend, Systems and DevOps
 
 🚀 Building projects to understand how systems actually work
 
@@ -122,189 +120,6 @@ alt="GitHub Contribution Graph"
 />
 
 </div>
-
-🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/M-elhouary/minishell">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=minishell&theme=tokyonight&hide_border=true" alt="Minishell"/>
-</a>
-
-<a href="https://github.com/M-elhouary/CUB3-GAME">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=CUB3-GAME&theme=tokyonight&hide_border=true" alt="Cub3D"/>
-</a>
-
-<br>
-
-<a href="https://github.com/M-elhouary/CPP_Modules">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=CPP_Modules&theme=tokyonight&hide_border=true" alt="CPP Modules"/>
-</a>
-
-<a href="https://github.com/M-elhouary/Philosopher">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=Philosopher&theme=tokyonight&hide_border=true" alt="Philosophers"/>
-</a>
-
-</div>
-
-🧩 42 / 1337 Projects
-
-<div align="center">
-
-<a href="https://github.com/M-elhouary/minishell">
-  <img src="https://img.shields.io/badge/Minishell-Unix%20Shell-58A6FF?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</a>
-
-<a href="https://github.com/M-elhouary/CUB3-GAME">
-  <img src="https://img.shields.io/badge/Cub3D-Graphics-58A6FF?style=for-the-badge&logo=c&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/M-elhouary/Philosopher">
-  <img src="https://img.shields.io/badge/Philosophers-Threads-58A6FF?style=for-the-badge&logo=c&logoColor=white"/>
-</a>
-
-<a href="https://github.com/M-elhouary/Net-practice">
-  <img src="https://img.shields.io/badge/NetPractice-Networking-58A6FF?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/M-elhouary/CPP_Modules">
-  <img src="https://img.shields.io/badge/CPP%20Modules-C%2B%2B-58A6FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</a>
-
-</div>
-
-⚙️ My DevOps Journey
-
-                        DEVOPS
-                          ▲
-                          │
-                 ┌────────┴────────┐
-                 │                 │
-          Infrastructure       Automation
-                 ▲                 ▲
-                 │                 │
-              Docker             Bash
-                 ▲
-                 │
-       ┌─────────┼─────────┐
-       │         │         │
-    Images    Networks   Volumes
-       │
-       ▼
-   Containers
-       ▲
-       │
-      Linux
-       ▲
-       │
-   Networking
-       ▲
-       │
-   C / C++
-
-🐳 Current Project — Inception
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/42-Inception-000000?style=for-the-badge&logo=42&logoColor=white"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,debian,nginx,mysql,wordpress,bash,linux"/>
-
-</div>
-
-<br>
-
-I'm currently building a complete containerized infrastructure as part of the 42 Inception project.
-
-                     INTERNET
-                         │
-                         ▼
-                ┌────────────────┐
-                │     NGINX      │
-                │      TLS       │
-                └───────┬────────┘
-                        │
-                        ▼
-                ┌────────────────┐
-                │   WORDPRESS    │
-                │    PHP-FPM     │
-                └───────┬────────┘
-                        │
-                        ▼
-                ┌────────────────┐
-                │    MariaDB     │
-                │    Database    │
-                └────────────────┘
-
-What I'm learning from Inception
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-Images-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Docker-Networks-2496ED?style=flat-square&logo=docker"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Docker-Volumes-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Docker-Secrets-2496ED?style=flat-square&logo=docker"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/TLS-Security-FF6C37?style=flat-square"/>
-<img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian"/>
-
-</div>
-
-🧠 What I'm Learning
-
-Software Engineering
-│
-├── C
-│   ├── Memory Management
-│   ├── Processes
-│   ├── File Descriptors
-│   ├── Signals
-│   └── Unix APIs
-│
-├── C++
-│   ├── OOP
-│   ├── Classes
-│   ├── Inheritance
-│   └── Polymorphism
-│
-├── Linux
-│   ├── Processes
-│   ├── Permissions
-│   ├── Filesystems
-│   └── Services
-│
-├── Networking
-│   ├── TCP / IP
-│   ├── DNS
-│   ├── Ports
-│   └── Routing
-│
-└── DevOps
-    ├── Docker
-    ├── Containers
-    ├── Infrastructure
-    ├── Automation
-    └── Deployment
 
 💡 Developer Mindset
 
