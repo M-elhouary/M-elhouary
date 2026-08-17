@@ -40,16 +40,6 @@ to web applications, containers, infrastructure and deployment.
 </div>
 <br>
 
-interests:
-  - Software Engineering
-  - Linux & Unix Systems
-  - DevOps & Cloud Infrastructure
-  - Backend Development
-  - Web Development
-  - Networking
-  - Open Source
-
-
 🛠️ Tech Stack
 
 💻 Languages
