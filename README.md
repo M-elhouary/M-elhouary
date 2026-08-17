@@ -81,69 +81,215 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 </div>
 
 
+<!-- ===================================================== -->
+<!--                 DEVOPS & INFRASTRUCTURE                -->
+<!-- ===================================================== -->
+
+<div align="center">
+
 ## ⚙️ DevOps & Infrastructure
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=750&lines=Containers+%E2%86%92+CI%2FCD+%E2%86%92+Monitoring+%E2%86%92+Security;Infrastructure+%E2%86%92+Automation+%E2%86%92+Observability;Build+%E2%86%92+Test+%E2%86%92+Scan+%E2%86%92+Deploy+%E2%86%92+Monitor"
+  alt="DevOps Animation"
+/>
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="50%">
 
 ### 🐳 Containers & Orchestration
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
-</div>
+<br><br>
+
+`Docker` • `Kubernetes`
+
+</td>
+
+<td align="center" width="50%">
 
 ### 🔄 CI/CD & Automation
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform" />
 
-</div>
+<br><br>
+
+`GitHub Actions` • `Jenkins`  
+`Ansible` • `Terraform`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
 
 ### 📊 Monitoring & Observability
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Loki-0D1117?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=white" />
 
-</div>
+<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+
+<br><br>
+
+`Prometheus` • `Grafana`  
+`Loki` • `Alertmanager`
+
+</td>
+
+<td align="center" width="50%">
 
 ### 🔐 Security & Scanning
 
-<div align="center">
+<br>
 
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+
+<br>
+
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
 
 ### 🌐 Web & Networking
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=nginx,cloudflare" />
 
-</div>
+<br><br>
 
-### 🐧 Systems
+`Nginx` • `Cloudflare`
 
-<div align="center">
+<br>
+
+`TCP/IP` • `DNS` • `TLS`
+
+</td>
+
+<td align="center" width="50%">
+
+### 🐧 Linux & Systems
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash" />
 
-</div>
+<br><br>
 
-### 🗄️ Databases
+`Linux` • `Debian`  
+`Ubuntu` • `Bash`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="2">
+
+### 🗄️ Databases & Caching
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+
+<br><br>
+
+`MySQL / MariaDB` • `MongoDB` • `PostgreSQL` • `Redis`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+### 🔁 DevOps Workflow
+
+```text
+              CODE
+                │
+                ▼
+        ┌───────────────┐
+        │      GIT      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     CI/CD     │
+        │ GitHub Actions│
+        │    Jenkins    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     BUILD     │
+        │    Docker     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ SECURITY SCAN │
+        │ Trivy / Snyk  │
+        │   SonarQube   │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    DEPLOY     │
+        │  Kubernetes   │
+        │   Terraform   │
+        │    Ansible    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    MONITOR    │
+        │  Prometheus   │
+        │    Grafana    │
+        │     Loki      │
+        └───────────────┘
+```
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Build+%F0%9F%94%A8+%E2%86%92+Test+%F0%9F%A7%AA+%E2%86%92+Scan+%F0%9F%94%90;Deploy+%F0%9F%9A%80+%E2%86%92+Monitor+%F0%9F%93%8A+%E2%86%92+Improve+%E2%99%BB%EF%B8%8F"
+  alt="DevOps Pipeline"
+/>
 
 </div>
 
