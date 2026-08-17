@@ -72,11 +72,6 @@
 
 <br>
 
-<!-- WHITE TO BLUE ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:58a6ff,100:ffffff" width="100%" alt="Animated Divider"/>
-</div>
-
 <h2>🛠️ Tech Stack</h2>
 
 <table align="center" width="100%">
