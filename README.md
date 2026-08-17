@@ -52,7 +52,7 @@ to web applications, containers, infrastructure and deployment.
 
 <br>
 
-```yaml
+``yaml
 name: Mohamed El-Houary
 from: Morocco 🇲🇦
 school: 42 / 1337
