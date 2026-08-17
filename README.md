@@ -39,6 +39,7 @@ to web applications, containers, infrastructure and deployment.
 
 </div>
 <br>
+
 interests:
   - Software Engineering
   - Linux & Unix Systems
@@ -50,23 +51,6 @@ interests:
 
 mindset: "Learn it. Build it. Break it. Understand it."
 
-
-🌐 Exploring Networking & Infrastructure
-
-
-🚀 Building projects to understand how systems actually work
-
-🎯 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Programming-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</div>
 
 🛠️ Tech Stack
 
