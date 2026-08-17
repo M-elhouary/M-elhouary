@@ -33,7 +33,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 
 <div align="center">
 
-### Hey, I'm Mohamed El-Houary 👋
 
 <samp>
 Software Engineering student at 42 / 1337.<br>
@@ -42,26 +41,14 @@ to web applications, containers, infrastructure and deployment.
 </samp>
 
 <br><br>
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+don't+just+want+to+use+technology+—+I+want+to+understand+it.;Learning+by+building%2C+breaking%2C+debugging+and+improving."
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=I+build+things+to+understand+how+they+work.;From+code+to+systems+to+infrastructure.;Always+learning.+Always+building.+Always+improving."
   alt="About me typing animation"
 />
 
 </div>
 
 <br>
-
-``yaml
-name: Mohamed El-Houary
-from: Morocco 🇲🇦
-school: 42 / 1337
-
-currently:
-  - Building 42 Inception
-  - Going deeper into DevOps & Infrastructure
-  - Improving System Programming
-  - Building Full-Stack projects
 
 interests:
   - Software Engineering
