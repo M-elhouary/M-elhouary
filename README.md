@@ -14,7 +14,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:0d1117
 />
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+Student+at+42+%2F+1337;C+%26+C%2B%2B+%7C+Linux+%7C+Systems;Web+Development+%7C+React+%7C+MongoDB;Learning+DevOps+%26+Infrastructure;Building+to+understand+how+things+work"
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+Student+at+42+%2F+1337;C+%26+C%2B%2B+%7C+Linux+%7C+Systems;Web+Development+%7C+React+%7C+MongoDB;Learning+DevOps+%26+Infrastructure;Building+to+understand+how+things+work"
 alt="Typing introduction"
 />
 
@@ -29,10 +29,10 @@ alt="Typing introduction"
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=10&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=22&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" width="100%" alt="Animated section divider"/>
+  <img src="https://profilekit.vercel.app/api/divider?style=wave&color=58A6FF&width=1000&height=28" width="100%" alt="Animated divider"/>
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
+👨‍💻 About Me
 
 Hi, I'm Mohamed El-Houary, a Software Engineering student at 42 / 1337.
 
@@ -55,108 +55,132 @@ Code → Systems → Infrastructure → DevOps
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=10&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=22&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" width="100%" alt="Animated section divider"/>
+  <img src="https://profilekit.vercel.app/api/divider?style=wave&color=58A6FF&width=1000&height=28" width="100%" alt="Animated divider"/>
 </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+🛠️ Tech Stack
 
-<h3 align="center">💻 Languages</h3>
+💻 Languages
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,js" alt="Languages"/>
 </div>
 
-<h3 align="center">🌐 Web Development</h3>
+🌐 Web Development
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css" alt="Web Development"/>
 </div>
 
-<h3 align="center">🗄️ Databases</h3>
+🗄️ Databases
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
 </div>
 
-<h3 align="center">🔧 Development Tools</h3>
+🔧 Development Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" alt="Development Tools"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=10&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=22&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" width="100%" alt="Animated section divider"/>
+  <img src="https://profilekit.vercel.app/api/divider?style=wave&color=58A6FF&width=1000&height=28" width="100%" alt="Animated divider"/>
 </div>
 
-<h2 align="center">⚙️ DevOps & Infrastructure</h2>
+⚙️ DevOps & Infrastructure
+
+<p align="center">
+A clean view of the tools I use and learn across containers, automation, monitoring, security and systems.
+</p>
 
 <table align="center">
 <tr>
-<td align="center" width="34%"><b>🐳 Containers & Orchestration</b></td>
-<td align="center" width="66%">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="44" alt="Docker and Kubernetes"/>
-  <br><br>
-  <code>Docker</code> · <code>Kubernetes</code>
+<td align="center" width="50%">
+
+🐳 Containers
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers"/>
+
+<br><br>
+
+Docker · Kubernetes
+
+</td>
+<td align="center" width="50%">
+
+🔄 CI/CD & Automation
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform" alt="Automation"/>
+
+<br><br>
+
+GitHub Actions · Jenkins
+Ansible · Terraform
+
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>🔄 CI/CD & Automation</b></td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform" height="44" alt="CI/CD and Automation"/>
-  <br><br>
-  <code>GitHub Actions</code> · <code>Jenkins</code> · <code>Ansible</code> · <code>Terraform</code>
+<td align="center" width="50%">
+
+📊 Monitoring
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
+<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager"/>
+
+<br><br>
+
+Prometheus · Grafana
+Loki · Alertmanager
+
+</td>
+<td align="center" width="50%">
+
+🔐 Security & Scanning
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+
+<br><br>
+
+Trivy · SonarQube · Snyk · OWASP
+
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>📊 Monitoring & Observability</b></td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="44" alt="Prometheus and Grafana"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
-  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager"/>
-  <br><br>
-  <code>Prometheus</code> · <code>Grafana</code> · <code>Loki</code> · <code>Alertmanager</code>
-</td>
-</tr>
+<td align="center" width="50%">
 
-<tr>
-<td align="center"><b>🔐 Security & Scanning</b></td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
-  <br><br>
-  <code>Trivy</code> · <code>SonarQube</code> · <code>Snyk</code> · <code>OWASP</code>
-</td>
-</tr>
+🌐 Networking & Web
 
-<tr>
-<td align="center"><b>🌐 Web & Networking</b></td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,cloudflare" height="44" alt="Nginx and Cloudflare"/>
-  <br><br>
-  <code>Nginx</code> · <code>Cloudflare</code>
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=nginx,cloudflare" alt="Networking and Web"/>
 
-<tr>
-<td align="center"><b>🐧 Systems</b></td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash" height="44" alt="Linux Systems"/>
-  <br><br>
-  <code>Linux</code> · <code>Debian</code> · <code>Ubuntu</code> · <code>Bash</code>
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" height="44" alt="Databases"/>
-  <br><br>
-  <code>MySQL</code> · <code>MongoDB</code> · <code>PostgreSQL</code> · <code>Redis</code>
+Nginx · Cloudflare
+TCP/IP · DNS · TLS
+
+</td>
+<td align="center" width="50%">
+
+🐧 Linux & Systems
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash" alt="Linux and Systems"/>
+
+<br><br>
+
+Linux · Debian · Ubuntu · Bash
+
 </td>
 </tr>
 </table>
@@ -164,17 +188,19 @@ Code → Systems → Infrastructure → DevOps
 <br>
 
 <div align="center">
+
 <img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=760&lines=Build+%E2%86%92+Test+%E2%86%92+Scan+%E2%86%92+Deploy+%E2%86%92+Monitor"
-  alt="DevOps workflow animation"
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=36BCF7&center=true&vCenter=true&width=760&lines=Build+%E2%86%92+Test+%E2%86%92+Scan+%E2%86%92+Deploy+%E2%86%92+Monitor;Automate+%E2%86%92+Observe+%E2%86%92+Improve"
+alt="DevOps workflow animation"
 />
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=10&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=22&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" width="100%" alt="Animated section divider"/>
+  <img src="https://profilekit.vercel.app/api/divider?style=wave&color=58A6FF&width=1000&height=28" width="100%" alt="Animated divider"/>
 </div>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+📊 GitHub Statistics
 
 <div align="center">
 
@@ -208,10 +234,10 @@ alt="Contribution Activity"
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=10&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=22&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" width="100%" alt="Animated section divider"/>
+  <img src="https://profilekit.vercel.app/api/divider?style=wave&color=58A6FF&width=1000&height=28" width="100%" alt="Animated divider"/>
 </div>
 
-<h2 align="center">🚀 Featured Projects</h2>
+🚀 Featured Projects
 
 <div align="center">
 
@@ -236,10 +262,10 @@ alt="Contribution Activity"
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=10&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=22&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" width="100%" alt="Animated section divider"/>
+  <img src="https://profilekit.vercel.app/api/divider?style=wave&color=58A6FF&width=1000&height=28" width="100%" alt="Animated divider"/>
 </div>
 
-<h2 align="center">🐳 Current Project — Inception</h2>
+🐳 Current Project — Inception
 
 <p align="center">
 Building a containerized WordPress infrastructure to understand how services communicate, persist data and run securely.
@@ -280,10 +306,10 @@ Internet
 └──────────────┘
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=10&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=22&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" width="100%" alt="Animated section divider"/>
+  <img src="https://profilekit.vercel.app/api/divider?style=wave&color=58A6FF&width=1000&height=28" width="100%" alt="Animated divider"/>
 </div>
 
-<h2 align="center">🤝 Connect With Me</h2>
+🤝 Connect With Me
 
 <div align="center">
 
@@ -294,7 +320,7 @@ Internet
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Keep+learning.;Keep+building.;Keep+improving."
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Keep+learning.;Keep+building.;Keep+improving."
 alt="Closing animation"
 />
 
