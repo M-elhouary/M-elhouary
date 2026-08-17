@@ -28,20 +28,90 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 
 </div>
 
-👨‍💻 About Me
 
-🎓 42 / 1337 Software Engineering Student
-💻 Working with C, C++, Linux and Unix systems
-🐧 Exploring Linux system administration
-🐳 Learning Docker, Containers and DevOps
-🌐 Improving Networking and Infrastructure skills
-⚙️ Interested in Backend and System Programming
-🚀 Learning by building real projects
+## 👨‍💻 About Me
 
+<div align="center">
 
-🌱 Learning Docker, DevOps, Linux & Infrastructure
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+at+42+%2F+1337;C+%26+C%2B%2B+%7C+Linux+%7C+Systems;Learning+DevOps+%26+Infrastructure;Building+to+Understand+How+Things+Work"
+  alt="About Me Animation"
+/>
 
-💻 Focused on C, C++, Unix & System Programming
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🎓 Software Engineering
+
+42 / 1337 Student
+
+Focused on:
+
+`C` • `C++` • `Unix` • `System Programming`
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚙️ DevOps & Infrastructure
+
+Currently exploring:
+
+`Docker` • `Linux` • `Networking` • `Infrastructure`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🐧 Systems
+
+Learning how systems work under the hood:
+
+`Processes` • `Memory` • `Networking` • `Linux`
+
+</td>
+
+<td align="center" width="50%">
+
+### 🚀 My Approach
+
+I learn by:
+
+`Building` → `Breaking` → `Debugging` → `Improving`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+### 💡 What drives me
+
+> I enjoy understanding how software, systems, networks, and infrastructure work together — not just how to use them.
+
+<br>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/System%20Programming-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+
+</div>
+
 
 🌐 Exploring Networking & Infrastructure
 
