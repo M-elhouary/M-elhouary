@@ -195,7 +195,7 @@
 <div align="center">
 
 <a href="https://github.com/M-elhouary/irserv">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=ft_irc&theme=tokyonight&hide_border=true" alt="ft_irc"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=ircserv&theme=tokyonight&hide_border=true" alt="ircserv"/>
 </a>
 <a href="https://github.com/M-elhouary/minishell">
   <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=minishell&theme=tokyonight&hide_border=true" alt="Minishell"/>
