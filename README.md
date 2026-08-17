@@ -17,19 +17,56 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:58a6ff,100:ffffff" width="100%" alt="Animated Divider"/>
 </div>
 
+<!-- WHITE TO BLUE ANIMATED DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:58a6ff,100:ffffff" width="100%" alt="Animated Divider"/>
+</div>
+
 <h2>👨‍💻 About Me</h2>
 
-I am a Software Engineering student at **42 / 1337** focused on low-level systems engineering, web application architecture, and cloud-native infrastructure.
+<blockquote align="left">
+  <h3>🚀 DevOps Engineer & Systems Developer</h3>
+  <p>
+    I am a <strong>Software & DevOps Engineer</strong> studying at <strong>42 / 1337</strong>, specializing in cloud-native infrastructure, container orchestration, CI/CD automation, and Linux systems engineering.
+  </p>
+  <p>
+    My engineering approach combines low-level systems knowledge (C/C++ memory management and networking) with modern DevOps practices—building secure, resilient, and fully automated deployment pipelines.
+  </p>
+</blockquote>
 
-* 🔭 **Currently Building:** [Inception](https://github.com/M-elhouary) (Dockerized Infrastructure) & system utility tools.
-* ⚙️ **Core Focus:** Linux system administration, Docker/Containerization, C/C++ memory management, and networking.
-* 🌐 **Web Technologies:** JavaScript, React, Node.js, and databases (MariaDB / MongoDB).
-* 🧠 **Engineering Philosophy:** *I learn best by dissecting systems from the ground up, debugging mechanics, and automating workflows.*
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Core DevOps Focus</h3>
+      <ul>
+        <li><strong>Infrastructure & Containers:</strong> Docker, Docker Compose, Kubernetes, Podman</li>
+        <li><strong>Automation & CI/CD:</strong> GitHub Actions, Jenkins, Ansible, Terraform</li>
+        <li><strong>Observability & Metrics:</strong> Prometheus, Grafana, Loki</li>
+        <li><strong>Web Infrastructure:</strong> Nginx Reverse Proxy, TLS/SSL, SELinux, Networking</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Systems & Software Engineering</h3>
+      <ul>
+        <li><strong>Low-Level Systems:</strong> C & C++ (C++98 / POSIX / Memory Management)</li>
+        <li><strong>Scripting & OS:</strong> Bash Scripting, Linux Administration (Debian, Fedora)</li>
+        <li><strong>Full-Stack Basics:</strong> React.js, Node.js, MariaDB / MongoDB</li>
+        <li><strong>Philosophy:</strong> <em>Automate everything, scan early, and design for reliability.</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <code>Code</code> ➔ <code>Systems</code> ➔ <code>Infrastructure</code> ➔ <code>DevOps</code>
+  <img src="https://img.shields.io/badge/Build-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Automate-0D1117?style=for-the-badge&logo=ansible&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Containerize-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Deploy-0D1117?style=for-the-badge&logo=kubernetes&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Monitor-0D1117?style=for-the-badge&logo=prometheus&logoColor=58A6FF"/>
 </div>
 
 <br>
@@ -37,50 +74,6 @@ I am a Software Engineering student at **42 / 1337** focused on low-level system
 <!-- WHITE TO BLUE ANIMATED DIVIDER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:58a6ff,100:ffffff" width="100%" alt="Animated Divider"/>
-</div>
-
-<h2>🐳 Active Focus — Inception (42 Project)</h2>
-
-<p align="center">
-A multi-container application stack built on top of <strong>Debian</strong> using <strong>Docker Compose</strong>, featuring custom networking, volume persistence, and secure TLS termination.
-</p>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,debian,nginx,mysql,wordpress,bash,linux" alt="Inception Stack"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Networks-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Volumes-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/TLS-v1.3_Security-FF6C37?style=flat-square"/>
-<img src="https://img.shields.io/badge/PHP--FPM-FastCGI-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-<br><br>
-
-<pre>
-       Client Request (HTTPS / Port 443)
-                      │
-                      ▼
-            ┌──────────────────┐
-            │   NGINX Container│
-            │   (TLS v1.2/1.3) │
-            └─────────┬────────┘
-                      │ FastCGI
-                      ▼
-            ┌──────────────────┐
-            │ WordPress        │
-            │ (PHP-FPM)        │
-            └─────────┬────────┘
-                      │ Port 3306
-                      ▼
-            ┌──────────────────┐
-            │ MariaDB Container│
-            │ (Persistent Vol) │
-            └──────────────────┘
-</pre>
-
 </div>
 
 <br>
