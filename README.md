@@ -80,6 +80,81 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 <img src="https://skillicons.dev/icons?i=git,github,vim,vscode"/>
 </div>
 
+
+## ⚙️ DevOps & Infrastructure
+
+### 🐳 Containers & Orchestration
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+</div>
+
+### 🔄 CI/CD & Automation
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform" />
+
+</div>
+
+### 📊 Monitoring & Observability
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Loki-0D1117?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+
+</div>
+
+### 🔐 Security & Scanning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
+</div>
+
+### 🌐 Web & Networking
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nginx,cloudflare" />
+
+</div>
+
+### 🐧 Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash" />
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+
+</div>
+
+### ☁️ Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+</div>
+
 📊 GitHub Statistics
 
 <div align="center">
