@@ -49,8 +49,6 @@ interests:
   - Networking
   - Open Source
 
-mindset: "Learn it. Build it. Break it. Understand it."
-
 
 🛠️ Tech Stack
 
