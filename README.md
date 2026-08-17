@@ -237,54 +237,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 
 <div align="center">
 
-### 🔁 DevOps Workflow
-
-```text
-              CODE
-                │
-                ▼
-        ┌───────────────┐
-        │      GIT      │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │     CI/CD     │
-        │ GitHub Actions│
-        │    Jenkins    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │     BUILD     │
-        │    Docker     │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ SECURITY SCAN │
-        │ Trivy / Snyk  │
-        │   SonarQube   │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    DEPLOY     │
-        │  Kubernetes   │
-        │   Terraform   │
-        │    Ansible    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    MONITOR    │
-        │  Prometheus   │
-        │    Grafana    │
-        │     Loki      │
-        └───────────────┘
-```
-
-<br>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Build+%F0%9F%94%A8+%E2%86%92+Test+%F0%9F%A7%AA+%E2%86%92+Scan+%F0%9F%94%90;Deploy+%F0%9F%9A%80+%E2%86%92+Monitor+%F0%9F%93%8A+%E2%86%92+Improve+%E2%99%BB%EF%B8%8F"
@@ -297,7 +249,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 
 </div>
 
