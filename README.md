@@ -10,13 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+Student+at+42+%2F+1337;C+%26+C%2B%2B+%7C+Linux+%7C+Systems;Web+Development+%7C+React+%7C+Node.js;DevOps+%26+Cloud-Native+Infrastructure;Building+to+understand+how+things+work" alt="Typing introduction" />
 
 <br><br>
-
-<a href="https://github.com/M-elhouary">
-  <img src="https://img.shields.io/badge/GitHub-M--elhouary-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=M-elhouary&label=Profile%20Views&style=flat-square&color=58A6FF" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/M-elhouary?style=flat-square&logo=github&label=Followers" alt="Followers"/>
-
 </div>
 
 <!-- WHITE TO BLUE ANIMATED DIVIDER -->
