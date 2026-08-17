@@ -7,7 +7,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:0d1117,55:161b22,100:58a6ff&text=MOHAMED%20EL-HOUARY&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Software%20Engineering%20%7C%2042%20%2F%201337%20%7C%20DevOps&descAlignY=57&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+Student+at+42+%2F+1337;C+%26+C%2B%2B+%7C+Linux+%7C+Systems;Web+Development+%7C+React+%7C+Node.js;DevOps+%26+Cloud-Native+Infrastructure;Building+to+understand+how+things+work" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+/\ DevOps+Engineering+Student+at+42+%2F+1337;C+%26+C%2B%2B+%7C+Linux+%7C+Systems;Web+Development+%7C+React+%7C+Node.js;DevOps+%26+Cloud-Native+Infrastructure;Building+to+understand+how+things+work" alt="Typing introduction" />
 <br><br>
 </div>
 
