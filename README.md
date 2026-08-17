@@ -194,7 +194,7 @@
 
 <div align="center">
 
-<a href="https://github.com/M-elhouary/ft_irc">
+<a href="https://github.com/M-elhouary/irserv">
   <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=M-elhouary&repo=ft_irc&theme=tokyonight&hide_border=true" alt="ft_irc"/>
 </a>
 <a href="https://github.com/M-elhouary/minishell">
@@ -247,9 +247,6 @@
 
 <div align="center">
 
-<a href="https://github.com/M-elhouary">
-  <img src="https://img.shields.io/badge/GitHub-M--elhouary-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="https://linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
