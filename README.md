@@ -7,39 +7,30 @@
 <!-- ===================================================== -->
 
 <div align="center">
-
 <img
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:58a6ff&text=MOHAMED%20EL-HOUARY&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineering%20%7C%2042%20%2F%201337%20%7C%20DevOps&descAlignY=55&descSize=18"
 />
-
 <a href="https://github.com/M-elhouary">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=42+%2F+1337+Student;C+%26+C%2B%2B+Developer;Learning+DevOps+%26+Infrastructure;Linux+%7C+Docker+%7C+Networking;Building+Systems+One+Project+at+a+Time"
     alt="Typing SVG"
   />
 </a>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=M-elhouary&label=PROFILE+VIEWS&style=for-the-badge&color=58a6ff" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/M-elhouary?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/M-elhouary?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS" alt="Stars"/>
-
 </div>
-
 
 ## 👨‍💻 About Me
 
 <div align="center">
-
-
 <samp>
 Software Engineering student at 42 / 1337.<br>
 I enjoy understanding how software works — from low-level systems<br>
 to web applications, containers, infrastructure and deployment.
 </samp>
-
 <br><br>
 <img
   src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=I+build+things+to+understand+how+they+work.;From+code+to+systems+to+infrastructure.;Always+learning.+Always+building.+Always+improving."
@@ -47,9 +38,7 @@ to web applications, containers, infrastructure and deployment.
 />
 
 </div>
-
 <br>
-
 interests:
   - Software Engineering
   - Linux & Unix Systems
