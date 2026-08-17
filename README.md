@@ -68,19 +68,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,ts,python" />
 </div>
 
-🐧 Systems & Infrastructure
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql"/>
-</div>
-
-🔧 Development Tools
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vim,vscode"/>
-</div>
-
-
 <!-- ===================================================== -->
 <!--                 DEVOPS & INFRASTRUCTURE                -->
 <!-- ===================================================== -->
