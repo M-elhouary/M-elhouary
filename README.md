@@ -33,84 +33,46 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117
 
 <div align="center">
 
+### Hey, I'm Mohamed El-Houary 👋
+
+<samp>
+Software Engineering student at 42 / 1337.<br>
+I enjoy understanding how software works — from low-level systems<br>
+to web applications, containers, infrastructure and deployment.
+</samp>
+
+<br><br>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+at+42+%2F+1337;C+%26+C%2B%2B+%7C+Linux+%7C+Systems;Learning+DevOps+%26+Infrastructure;Building+to+Understand+How+Things+Work"
-  alt="About Me Animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+don't+just+want+to+use+technology+—+I+want+to+understand+it.;Learning+by+building%2C+breaking%2C+debugging+and+improving."
+  alt="About me typing animation"
 />
 
 </div>
 
 <br>
 
-<table align="center">
+```yaml
+name: Mohamed El-Houary
+from: Morocco 🇲🇦
+school: 42 / 1337
 
-<tr>
+currently:
+  - Building 42 Inception
+  - Going deeper into DevOps & Infrastructure
+  - Improving System Programming
+  - Building Full-Stack projects
 
-<td align="center" width="50%">
+interests:
+  - Software Engineering
+  - Linux & Unix Systems
+  - DevOps & Cloud Infrastructure
+  - Backend Development
+  - Web Development
+  - Networking
+  - Open Source
 
-### 🎓 Software Engineering
-
-42 / 1337 Student
-
-Focused on:
-
-`C` • `C++` • `Unix` • `System Programming`
-
-</td>
-
-<td align="center" width="50%">
-
-### ⚙️ DevOps & Infrastructure
-
-Currently exploring:
-
-`Docker` • `Linux` • `Networking` • `Infrastructure`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 🐧 Systems
-
-Learning how systems work under the hood:
-
-`Processes` • `Memory` • `Networking` • `Linux`
-
-</td>
-
-<td align="center" width="50%">
-
-### 🚀 My Approach
-
-I learn by:
-
-`Building` → `Breaking` → `Debugging` → `Improving`
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="center">
-
-### 💡 What drives me
-
-> I enjoy understanding how software, systems, networks, and infrastructure work together — not just how to use them.
-
-<br>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/System%20Programming-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-
-</div>
+mindset: "Learn it. Build it. Break it. Understand it."
 
 
 🌐 Exploring Networking & Infrastructure
